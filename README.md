@@ -3,6 +3,8 @@ Calculating R-squared measures for multilevel models Use r2mlm With (In) R Softw
 
 Compute R-squared values for multilevel models, automatically inputting parameter estimates Use r2mlm With (In) R Software
 
+https://www.youtube.com/watch?v=cl9zM_i9y70
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
